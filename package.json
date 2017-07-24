@@ -1,0 +1,32 @@
+{
+  "name": "msbot",
+  "version": "1.0.0",
+  "description": "Microsoft Teams Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aharriswlu/msbot.git"
+  },
+  "keywords": [
+    "MS",
+    "Teams",
+    "Bot"
+  ],
+  "author": "Andrew Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aharriswlu/msbot/issues"
+  },
+  "homepage": "https://github.com/aharriswlu/msbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "botbuilder-teams": "^0.1.2",
+    "core-js": "^2.4.1",
+    "restify": "^5.0.1",
+    "typescript": "^2.4.2",
+    "util": "^0.10.3"
+  }
+}
